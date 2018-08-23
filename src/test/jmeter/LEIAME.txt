@@ -1,0 +1,3 @@
+Para execução dos testes deverá seguir os passos abaixo: 
+
+1) limpar a base de forma que zere os Id's das tabelas;
