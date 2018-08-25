@@ -1,3 +1,10 @@
 Para execução dos testes deverá seguir os passos abaixo: 
 
 1) limpar a base de forma que zere os Id's das tabelas;
+
+2) Instalar as bibliotecas:
+Install library: json-lib
+Install library: jmeter-plugins-cmn-jmeter
+Install library: cmdrunner
+Install plugin: jpgc-graphs-additional 2.0
+Install plugin: jpgc-graphs-basic 2.0
